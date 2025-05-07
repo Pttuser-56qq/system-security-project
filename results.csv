@@ -1,0 +1,3 @@
+"data","col1"
+"call to SSL_read","Potential unsafe data transfer without certificate verification."
+"call to SSL_write","Potential unsafe data transfer without certificate verification."
